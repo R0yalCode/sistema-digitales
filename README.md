@@ -35,11 +35,7 @@ sistemas-digitales/
 │   ├── README.md
 │   ├── resumen-unidad-3.pdf
 │   └── imagenes/
-│
-└── unidad-4/
-    ├── README.md
-    ├── resumen-unidad-4.pdf
-    └── imagenes/
+└── 
 ```
 
 ### Organización del material
